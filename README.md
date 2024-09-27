@@ -1,7 +1,7 @@
 
 # Number Guessing Game (C# .NET CLI Application)
 
-A simple and fun command-line-based number guessing game written in C#. The computer randomly selects a number between 1 and 100, and the player must guess it within a limited number of chances based on the selected difficulty level.
+A simple and fun command-line-based number guessing game written in C#. The computer randomly selects a number between 1 and 100, and the player must guess it within a limited number of chances based on the selected difficulty level. Sample solution for the [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## Features
 
@@ -24,24 +24,24 @@ A simple and fun command-line-based number guessing game written in C#. The comp
 ### Installation
 
 1. Clone this repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/yourusername/NumberGuessingGame.git
-    \`\`\`
+    ```
 2. Navigate to the project directory:
-    \`\`\`bash
+    ```bash
     cd NumberGuessingGame
-    \`\`\`
+    ```
 3. Build the project:
-    \`\`\`bash
+    ```bash
     dotnet build
-    \`\`\`
+    ```
 
 ### Running the Game
 
 To start playing the game, use the following command:
-\`\`\`bash
+```bash
 dotnet run
-\`\`\`
+```
 
 ## How to Play
 
@@ -65,17 +65,17 @@ Some possible features to implement in the future:
 - Enhanced hint system that provides clues based on proximity to the target number.
 - Saving and loading high scores across multiple sessions.
 
-## Contributing
+## Support My Work
+If you enjoy my work or want to support what I do, feel free to [Buy Me a Coffee](https://buymeacoffee.com/marvynharry)!
 
-Contributions are welcome! Please fork this repository and create a pull request for any feature or bug fix.
+## Contributing
+Feel free to submit a pull request or report issues to help improve the project!
 
 ## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
-For any questions or suggestions, feel free to reach out to me at [marvynharry@gmail.com].
+For any questions or support, please reach out via [GitHub Issues](https://github.com/MarvynHarry/NumberGuessingGame/issues).
 
 ---
 
